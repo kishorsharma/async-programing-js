@@ -18,6 +18,6 @@ function getFile(file) {
 co(function*() {
 
     })
-    .val(function() {
+    .then(function() {
         util.output("Complete!!");
     })
