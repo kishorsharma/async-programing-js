@@ -1,3 +1,6 @@
 */*_sol.js
 */node_modules
 .vscode
+test
+*test.js
+*_local.js
