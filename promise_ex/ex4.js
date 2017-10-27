@@ -1,8 +1,8 @@
-var util = require('../utitl/util');
+var util = require('../util');
 
 function getFile(file) {
     return new Promise(function(resolve) {
-        fakeAjax(file, resolve);
+        util.fakeAjax(file, resolve);
     });
 }
 

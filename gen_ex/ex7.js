@@ -1,5 +1,5 @@
 var co = require('co');
-var util = require('../util/util');
+var util = require('../util');
 
 function getFile(file) {
     return new Promise(function(resolve) {

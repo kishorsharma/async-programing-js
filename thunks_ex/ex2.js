@@ -1,4 +1,4 @@
-var util = require('../util/util');
+var util = require('../util');
 
 function getFile(file) {
     // what do we do here?

@@ -1,4 +1,4 @@
-var util = require('../util/util');
+var util = require('../util');
 
 // **************************************
 // The old-n-busted callback way
